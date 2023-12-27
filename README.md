@@ -5,11 +5,13 @@
 <img align="left" src="https://i.imgur.com/hgDMEgk.png" alt="Logo.jpg" width="200" /> 
 
 ```csharp
---------------------------------
-       OS  :  Tiny11
-       DS 1:  spogliqmi
-       DS 2:  __d3nis
---------------------------------
+--------------------------------------------------------------------------
+ OS        :  Tiny11
+ DS 1      :  spogliqmi
+ DS 2      :  __d3nis
+ spogliqmi : has a computer (i7-9700F 32GB RTX2060) and a surface go 3
+ __d3nis   : has a computer (i5-9th 16GB GTX1650) and a surface go 2
+--------------------------------------------------------------------------
 ```
 
 <p align="left">
