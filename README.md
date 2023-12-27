@@ -1,20 +1,18 @@
 ```zsh
 > lobazonfetch
 ```
-
+<img align="left" src="https://logodix.com/logo/399068.png" alt="Logo.jpg" width="200" />
 
 ```csharp
-            ⠀⠀⠀⣤⣴⣾⣿⣿⣿⣿⣿⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡄
-⠀⠀           ⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⢰⣦⣄⣀⣀⣠⣴⣾⣿⠃                                     -
-⠀⠀           ⢸⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⠀                               OS: Tiny 11
-⠀          ⠀⣼⣿⡿⠿⠛⠻⠿⣿⣿⡇⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀                           
-          ⠀⠀⠉⠀⠀⠀⢀⠀⠀⠀⠈⠁⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀                         Francii's Discord: spogliqmi
-          ⠀⠀⣠⣴⣶⣿⣿⣿⣷⣶⣤⠀⠀⠀⠈⠉⠛⠛⠛⠉⠉⠀⠀⠀                         Denii's   Discord: __d3nis
-          ⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⣶⣦⣄⣀⣀⣀⣤⣤⣶⠀⠀
-          ⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀
-          ⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀                     Francii's PC: i7-9700F & RTX 2060
-          ⢠⣿⡿⠿⠛⠉⠉⠉⠛⠿⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀                     Denii's PC:   i5-9400F & GTX 1650
-          ⠘⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⢿⣿⣿⣿⣿⣿⠿⠛⠀⠀⠀                       -  Favourite Distro: ArchBtw  -
+OS: Tiny 11
+                         
+Francii's Discord: spogliqmi
+Denii's   Discord: __d3nis
+
+Francii's PC: i7-9700F & RTX 2060
+Denii's PC:   i5-9400F & GTX 1650
+
+-  Favourite Distro: ArchBtw  -
 ```
 
 <p align="center">
