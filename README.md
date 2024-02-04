@@ -1,7 +1,7 @@
 ```zsh
 > lobazonfetch
 ```
-<img align="left" src="https://cdn.discordapp.com/attachments/1149100725457137735/1203835345079115848/fRBkd7B.png?ex=65d28a08&is=65c01508&hm=cb55200861ecd2173c13754ca725aed1b359004549155fecc4e01dc94383a5a5&" alt="Logo.jpg" width="200" />
+<img align="left" src="https://media.discordapp.net/attachments/1149100725457137735/1203835946794221628/97Y30az.png?ex=65d28a97&is=65c01597&hm=f3aa8307e6b7d6746e3d998d4edd01838782386678172ffd694dc123c054a8d6&=&format=webp&quality=lossless" alt="Logo.jpg" width="200" />
 
 ```csharp
 OS: Tiny 11
