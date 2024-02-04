@@ -4,13 +4,11 @@
 <img align="left" src="https://media.discordapp.net/attachments/1149100725457137735/1203835946794221628/97Y30az.png?ex=65d28a97&is=65c01597&hm=f3aa8307e6b7d6746e3d998d4edd01838782386678172ffd694dc123c054a8d6&=&format=webp&quality=lossless" alt="Logo.jpg" width="200" />
 
 ```csharp
-OS: Tiny 11
+OS: ReviOS 11
                          
 Francii's Discord: spogliqmi
-Denii's   Discord: __d3nis
-
 Francii's PC: i7-9700F & RTX 2060
-Denii's PC:   i5-9400F & GTX 1650
+Francii's SURFACE: i3-10100Y & UHD 615
 
 -  Favourite Distro: ArchBtw  -
 ```
